@@ -1,4 +1,4 @@
-# EmployeeTracker
+# Employee Tracker
 [CLICK HERE FOR APPLICATION WALK THROUGH]()
 
 ## Table of Contents
