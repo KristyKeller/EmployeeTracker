@@ -1,7 +1,6 @@
 # 📇Employee Tracker
 
 ## Table of Contents
-* [Screenshots](#screenshots)
 
 * [User Story](#user-story)
 
