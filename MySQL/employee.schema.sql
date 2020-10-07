@@ -31,5 +31,3 @@ CREATE TABLE employees
     FOREIGN KEY (role_id) REFERENCES role(id),
     FOREIGN KEY (manager_id) REFERENCES role(id)
 );
-
--- Link to Inquirer user prompts
