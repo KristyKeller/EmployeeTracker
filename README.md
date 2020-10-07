@@ -1,5 +1,4 @@
 # 📇Employee Tracker
-[CLICK HERE FOR APPLICATION WALK THROUGH]()
 
 ## Table of Contents
 * [Screenshots](#screenshots)
@@ -8,7 +7,9 @@
 
 * [Application Description](#application-description)
 
-* [Demo](#demo)
+* [Installation](#installation)
+
+* [Usage](#usage)
 
 * [Built With](#built-with)
 
@@ -27,13 +28,15 @@ so that I can organize and plan my business
 Command-line application that allows the user to manage a company's employees using node, inquirer, and MySQL. This Content Management System allows the user to interact with stored information in the databases where they can add, view, and update departments, roles, and employees.
 
 
-## Screenshots
-![screenshot3](./Assets/Images/.png)
-![screenshot2](./Assets/Images/.png)
-![screenshot1](./Assets/Images/.png)
+## Installation
+```
+npm i
+```
 
-## Demo
-![gif]()
+## Usage
+```
+Run "node index"
+```
 
 ## Built With
 * MySQL
