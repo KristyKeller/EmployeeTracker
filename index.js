@@ -1,6 +1,4 @@
 require('dotenv').config();
-  
-const consoleTable = require("console.table");
 
 const inquirer = require("inquirer");
 const fs = require("fs");
