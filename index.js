@@ -1,10 +1,12 @@
 require('dotenv').config();
+  
+const consoleTable = require("console.table");
 
 const inquirer = require("inquirer");
 const fs = require("fs");
 const mysql = require("mysql");
 
-const connection = mysql.createConnection({
+let connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
